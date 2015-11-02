@@ -1,4 +1,4 @@
-# Ich kenn die Commands:
+## Ich kenn die Commands:
 Git_Push = Ich schiebe die Dateien die ich Local hab auf GitHub
 Git_Pull = Ich ziehe die Dateien von GitHub 
 Git_Commit = Damit speichere ich die Dateien Local 
