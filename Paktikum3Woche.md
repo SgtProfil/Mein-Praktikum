@@ -19,3 +19,5 @@
 -Linux weiterhin versucht auf den Mini Pc zu installieren
 
 -Texte überarbeitet
+
+-Pause gemacht von 12 Uhr bis 13 Uhr
