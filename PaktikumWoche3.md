@@ -7,9 +7,12 @@
 
 -13:30 bis ca.14:15 weiter gearbeitet
 
--Jungen erklärt was ich so hier mache wie ich hier hinkomme und wie ich natürlich auch hier weg komme
+-Dem Sohn des Geschäftsführers erklärt was ich so hier mache wie ich hier hinkomme und wie ich natürlich auch hier weg komme
 
 -Dann Mini Pc mit Windows versucht mit Linux zu installieren
+-- Vergessen Netzwrkkabel anzuschließen
+-- Treiber für Netzwerkkarte noch nicht im Image von Debian 8.02 enthalten
+-- Debian Live CD bootet nicht von USB. 
 
 -16 Uhr hab ich ende gemacht und bin dann wieder mit OV7 gefahren
  
