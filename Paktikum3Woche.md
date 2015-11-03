@@ -20,4 +20,4 @@
 
 -Texte überarbeitet
 
--Pause gemacht von 12 Uhr bis 13 Uhr
+-Pause gemacht von ca.12 Uhr bis ca.13 Uhr
