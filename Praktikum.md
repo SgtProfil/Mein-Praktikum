@@ -3,7 +3,7 @@ ca.8:30 gekommen, dann habe ich mit Philipp noch an meinen Aufgaben gearbeitet b
 
 
 ###Di 
-ca.8:30 gekommen, heute hab ich mit bis 12 Uhr wieder mit den Arrays gequält was ich danach also jetzt (ein paar tage später) kann ich das schon mit den Arrays gut umgehen. Danach hab ich bis 13 Uhr Pause gemacht
+ca.8:30 gekommen, heute hab ich mit bis 12 Uhr wieder mit den Arrays gequält was ich danach also jetzt (ein paar tage später) kann ich schon gut mit den Arrays umgehen. Danach hab ich bis 13 Uhr Pause gemacht.
 
 
 ###Mi
