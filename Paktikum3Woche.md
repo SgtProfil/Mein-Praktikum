@@ -23,3 +23,5 @@
 -Pause gemacht von ca.12 Uhr bis ca.13 Uhr
 
 -Nochmals versucht Linux auf den Mini Pc zu installieren (fehlgeschlagen)
+
+-Texte weiter bearbeitet
