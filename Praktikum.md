@@ -1,13 +1,13 @@
 ###Mo
-ca.8:30 gekommen, dann habe ich mit Philipp noch an meinen Aufgaben gearbeitet bei Atom bis ca.12 Uhr dann hab ich wie immer eine Stunde Pause gemacht.
+ca.8:30 gekommen, Montag morgen hat Philipp mir eine Einführung zum Programmieren gegeben wo ich danach auf ein paar Aufgaben gemacht hab. Dann hab ich von 12 Uhr bis 13 Uhr Pause gemacht. Danach hat Daniel mir eine Einführung zu Linux gegeben Dann war es auch 15:30 und dann nahm ich die OV8 nach Hause.
 
 
 ###Di 
-ca.8:30 gekommen, heute hab ich mit bis 12 Uhr wieder mit den Arrays gequält was ich danach also jetzt (ein paar tage später) kann ich schon gut mit den Arrays umgehen. Danach hab ich bis 13 Uhr Pause gemacht.
+ca.8:30 gekommen, heute hab ich mit bis 12 Uhr wieder mit den Arrays gequält was ich danach also jetzt (ein paar tage später) kann ich schon gut mit den Arrays umgehen. Danach hab ich bis 13 Uhr Pause gemacht. Dann hat Daniel weiter mit seiner Einführung von Linux gemacht die wieder ein bisschen länger gedauert hat desswegen hab ich auch einen Bus später genommen (16:30 Uhr).
 
 
 ###Mi
-ca.8:30 gekommen, Mittwoch hat Philipp mir wieder Aufgaben gegeben zum Programmieren von kurzen Fragen z.B. Die Frage kommt "Wie geht's dir?" Dann kann man alles Schreiben was man möchte aber auf diese Frage antwortet man höchst warscheinlich Gut oder Schlecht wenn man dann "Gut" schreibt wird geantwortet "Cool mir auch!" Dann hatten wir auch schon wieder 12 Uhr und ich hab Pause gemacht.
+ca.8:30 gekommen, Mittwoch hat Philipp mir wieder Aufgaben gegeben zum Programmieren von kurzen Fragen z.B. Die Frage kommt "Wie geht's dir?" Dann kann man alles Schreiben was man möchte aber auf diese Frage antwortet man höchst warscheinlich Gut oder Schlecht wenn man dann "Gut" schreibt wird geantwortet "Cool mir auch!" Dann hatten wir auch schon wieder 12 Uhr und ich hab eine Stunde Pause gemacht Pause gemacht. Danach hat Daniel mir per E-mail einen Linux Test geschickt den hab ich dann halt so gut wie möglich bearbeitet weil er gesagt hat das ich die Aufgabe erst verstehen soll und dann sie erst beantworten soll und am Ende hatte ich 32 von 34 Punkten.
 
 
 ###Do 
