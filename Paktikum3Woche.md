@@ -15,3 +15,7 @@
  
 ###Di
 -8:35 Uhr angefangen 
+
+-Linux weiterhin versucht auf den Mini Pc zu installieren
+
+-Texte überarbeitet
