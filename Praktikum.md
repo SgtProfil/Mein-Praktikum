@@ -1,13 +1,13 @@
 ###Mo
-ca.8:30 gekommen,
+ca.8:30 gekommen, dann habe ich mit Philipp noch an meinen Aufgaben gearbeitet bei Atom bis ca.12 Uhr dann hab ich wie immer eine Stunde Pause gemacht.
 
 
 ###Di 
-ca.8:30 gekommen,
+ca.8:30 gekommen, heute hab ich mit bis 12 Uhr wieder mit den Arrays gequält was ich danach also jetzt (ein paar tage später) kann ich das schon mit den Arrays gut umgehen. Danach hab ich bis 13 Uhr Pause gemacht
 
 
 ###Mi
-ca.8:30 gekommen,
+ca.8:30 gekommen, Mittwoch hat Philipp mir wieder Aufgaben gegeben zum Programmieren von kurzen Fragen z.B. Die Frage kommt "Wie geht's dir?" Dann kann man alles Schreiben was man möchte aber auf diese Frage antwortet man höchst warscheinlich Gut oder Schlecht wenn man dann "Gut" schreibt wird geantwortet "Cool mir auch!" Dann hatten wir auch schon wieder 12 Uhr und ich hab Pause gemacht.
 
 
 ###Do 
