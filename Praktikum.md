@@ -19,6 +19,7 @@ Dannach sind wir zu einer Dönerbude gegangen wo Daniel mir einen Pommdöner aus
 
 ###Fr
 ca.8:30 begonnen, Daniel hat mir Github weiter erklärt wie es halt so funktioniert z.B. das Committen. Commiten heißt sein erstelltes Dokument auf Github hochzuladen. Github ist eine Seite wo man online sachen speichern kann und sich anzeigen lassen kann oder bei anderen Projekten anfragen kann ob man auch an einer bestimmten stelle auch etwas Code hinzufügen will. Und man kann auch z.B. wie bei Facebook Kommentare unter einem Projekt hinzufügen.
+
 Zu Mittag waren Ich, Michael, Daniel, Max usw. beim Japaner der so ungefähr hinter der Velberter Sparkasse wo ich dann zum ersten mal mit Stäbchen gegessen hab, ich hab nur versucht mit Stäbchen zu essen weil Michael gesagt hab das ich bestimmt oder mindestens einmal im Leben in China oder Japan sein würde.
 
 Dann sind wir zurück gefahren und ich hab weiter mit Git und GitHub gearbeitet, bis ca. 16 Uhr. Und bin dann wieder mit der OV7 nach Hause gefahren.
