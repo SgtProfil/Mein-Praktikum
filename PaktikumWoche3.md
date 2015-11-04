@@ -28,3 +28,5 @@
 -Nochmals versucht Linux auf den Mini Pc zu installieren (fehlgeschlagen)
 
 -Texte weiter bearbeitet
+
+###Mi
