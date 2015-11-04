@@ -30,3 +30,13 @@
 -Texte weiter bearbeitet
 
 ###Mi
+
+-8:30 Uhr angefangen
+
+-Webserver erstellt
+
+-Array nochmal angeguckt
+
+-result kennengelernt
+
+-Auf den Webserver Random bild programmiert
