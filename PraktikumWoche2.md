@@ -1,9 +1,9 @@
 ###Mo
 **ca.8:30 gekommen,** 
   
-  Montag  Philipp und Daniel haben mit mir die Einführung in die Programmierung fortgeführt. Anschließend habe ich hierzu ein
+  Philipp und Daniel haben mit mir die Einführung in die Programmierung fortgeführt. Anschließend habe ich hierzu ein
   paar Beispielaufgaben ausprpbiert, die Beispielaufgaben wahren z.B. mach eine for each Schleife oder bau if clauses in    
-  deine Frage. Dann hab ich von **12 Uhr** bis **13 Uhr** Pause gemacht. Danach hat Daniel mir eine Einführung zu Linux fortgeführt.
+  deine Frage. Dann hab ich von **12 Uhr** bis **13 Uhr** Pause gemacht. Danach hat Daniel mir eine Einführung zu Linux        fortgeführt.
   Dann war es auch 15:30 und dann nahm ich die OV8 nach Hause.
 
 Zusammenfassung der Beispiel zu:
@@ -25,7 +25,11 @@ Arry:
 ###Mi
 **ca.8:30 gekommen,** 
   
-  Mittwoch hat Philipp mir wieder Aufgaben gegeben zum Programmieren von kurzen Fragen z.B. Die Frage kommt "Wie geht's dir?"   Dann kann man alles Schreiben was man möchte aber auf diese Frage antwortet man höchst warscheinlich Gut oder Schlecht wenn   man dann "Gut" schreibt wird geantwortet "Cool mir auch!" Dann hatten wir auch schon wieder **12 Uhr** und ich hab eine      Stunde Pause gemacht Pause gemacht. Danach hat Daniel mir per E-mail einen Linux Test geschickt den hab ich dann halt so     gut wie möglich bearbeitet weil er gesagt hat das ich die Aufgabe erst verstehen soll und dann sie erst beantworten soll     und am Ende hatte ich 32 von 34 Punkten.
+  Mittwoch hat Philipp mir wieder Aufgaben gegeben zum Programmieren von kurzen Fragen z.B. Die Frage kommt "Wie geht's dir?"   Dann kann man alles Schreiben was man möchte aber auf diese Frage antwortet man höchst warscheinlich Gut oder Schlecht wenn   man dann "Gut" schreibt wird geantwortet "Cool mir auch!" Dann hatten wir auch schon wieder **12 Uhr** und ich hab eine      Stunde Pause gemacht Pause gemacht.
+  
+  Danach hat Daniel mir per E-mail einen Linux Test geschickt den hab ich dann halt so gut wie möglich bearbeitet weil er      gesagt hat das ich die Aufgabe erst verstehen soll und dann sie erst beantworten soll und am Ende hatte ich 32 von 34        Punkten. Anschließend hab ich mit VBA (Visual Basic for Applications) versucht ein bisschen zu programmieren dass wenn man   einen Knopf drückt der "Drück mich" Knopf verschwindet und ein anderer taucht dann auf und sagt ich bin hier. 
+  
+  Als ich das fertig hatte war es auch schon **16 Uhr** und dann bin ich mit der OV7 nach Hause gefahren
 
 Zuvor: Variabeln. Warum Deklaration sinnvoll ist.
 VBA.....
