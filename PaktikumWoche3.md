@@ -35,8 +35,12 @@
 
 -Webserver erstellt
 
+-12 Uhr bis 13 Uhr Pause gemacht
+
 -Array nochmal angeguckt
 
 -result kennengelernt
 
--Auf den Webserver Random bild programmiert
+-Auf den Webserver 5 verschiedene Random Bilder programmiert
+
+-16 Uhr Nachhause gefahren mit OV7
