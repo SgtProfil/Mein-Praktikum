@@ -50,3 +50,5 @@
 -8:25 gekommen
 
 -Webserver mit zufälligkeit von Bildern Programmiert wo auch eine Error meldung kommt die sagt "Konnte nicht gefunden werden"
+
+-Webserver versucht mit Layout zu versehen (ohne hilfe) hat aber nicht geklappt. 
