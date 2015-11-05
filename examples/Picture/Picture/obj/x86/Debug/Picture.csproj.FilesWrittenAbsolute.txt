@@ -1,0 +1,7 @@
+/home/huf/Code/Picture/Picture/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/huf/Code/Picture/Picture/obj/x86/Debug/Picture.gtk-gui.gui.stetic
+/home/huf/Code/Picture/Picture/bin/Debug/Picture.exe.mdb
+/home/huf/Code/Picture/Picture/bin/Debug/Picture.exe
+/home/huf/Code/Picture/Picture/obj/x86/Debug/Picture.exe
+/home/huf/Code/Picture/Picture/obj/x86/Debug/Picture.exe.mdb
+/home/huf/Code/Picture/Picture/bin/Debug/libstetic.dll

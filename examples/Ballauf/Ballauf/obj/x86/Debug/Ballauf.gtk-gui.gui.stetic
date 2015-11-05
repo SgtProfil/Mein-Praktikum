@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/Ballauf.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="864 524">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">MainWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Fixed" id="fixed1">
+        <property name="MemberName" />
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Button" id="btnHallo">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Start</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnHallo_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">187</property>
+            <property name="Y">135</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnJetzthier">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Jetzt hier</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnJetzthier_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">181</property>
+            <property name="Y">378</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnNochhier">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Noch hier</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnNochhier_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">586</property>
+            <property name="Y">138</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnFinish">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Finish</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnFinish_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">597</property>
+            <property name="Y">374</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnFortsetzung">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Geht noch weiter</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnFortsetzung_clicked" />
+          </widget>
+          <packing>
+            <property name="X">560</property>
+            <property name="Y">374</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnEnde">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Ende?</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnEnde_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">390</property>
+            <property name="Y">261</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnEndeEnde">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Ok jetzt is Ende</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnEndeEnde_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">361</property>
+            <property name="Y">261</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="BtnEndeEndeEnde">
+            <property name="MemberName" />
+            <property name="Visible">False</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Ok Ende Ende</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="BtnEndeEndeEnde_Clicked" />
+          </widget>
+          <packing>
+            <property name="X">368</property>
+            <property name="Y">261</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

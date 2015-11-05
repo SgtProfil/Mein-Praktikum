@@ -1,0 +1,6 @@
+/home/huf/Code/Ballauf/Ballauf/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/huf/Code/Ballauf/Ballauf/obj/x86/Debug/Ballauf.gtk-gui.gui.stetic
+/home/huf/Code/Ballauf/Ballauf/bin/Debug/Ballauf.exe.mdb
+/home/huf/Code/Ballauf/Ballauf/bin/Debug/Ballauf.exe
+/home/huf/Code/Ballauf/Ballauf/obj/x86/Debug/Ballauf.exe
+/home/huf/Code/Ballauf/Ballauf/obj/x86/Debug/Ballauf.exe.mdb
