@@ -47,8 +47,10 @@
 
 ###Do
 
--8:25 gekommen
+-8:25 Uhr gekommen
 
 -Webserver mit zufälligkeit von Bildern Programmiert wo auch eine Error meldung kommt die sagt "Konnte nicht gefunden werden"
 
--Webserver versucht mit Layout zu versehen (ohne hilfe) hat aber nicht geklappt. 
+-Webserver versucht mit Layout zu versehen (ohne hilfe) hat aber nicht geklappt.
+
+-12:05 Uhr Pause bis 13:05 Uhr gemacht
