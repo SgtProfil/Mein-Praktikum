@@ -44,3 +44,7 @@
 -Auf den Webserver 5 verschiedene Random Bilder programmiert
 
 -16 Uhr Nachhause gefahren mit OV7
+
+###Do
+
+-8:25 gekommen
