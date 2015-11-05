@@ -1,4 +1,4 @@
-:smile: @SgtProfil 
+:smile: 
 # Hallo #
 ## Bye ##
 ### Lirik
