@@ -8,8 +8,18 @@ app.use(function(req, res, next) {
 });
 app.use('/', express.static(__dirname));
 app.get('/speziell', function(req, res) {
-    console.log('Eine Spezielle Datei wird ausgeliefert!');
-    res.sendfile(__dirname + '/' + (images[randomBetween(0, 5)]));
+    var zufaelligeZahl = randomBetween(0, 7);
+    if (zufaelligeZahl > images.length) {
+      res.status(404).sendfile(__dirname + '/error.html');
+    }
+    else if (zufaelligeZahl === images.length) {
+      res.status(404).sendfile(__dirname + '/error.html');
+    }
+    else {
+      res.sendfile(__dirname + '/' + (images[zufaelligeZahl]));
+    }
+
+        console.log('Eine Spezielle Datei wird ausgeliefert!');
 });
 app.get('/*', function(req, res) {
     res.status(404).sendfile(__dirname + '/error.html');
