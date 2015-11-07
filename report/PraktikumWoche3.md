@@ -54,3 +54,23 @@
 -Webserver versucht mit Layout zu versehen (ohne hilfe) hat aber nicht geklappt.
 
 -12:05 Uhr Pause bis 13:05 Uhr gemacht
+
+-mit Philipp und Daniel an meinem Webserver gearbeitet
+
+-Dann hatten wir auch schon 16 Uhr und ich hab ende gemacht
+
+###Fr
+
+-8:30 gekommen
+
+-bisschen an meinem Webserver gearbeitet
+
+-Aufgaben von Philipp und Daniel bekommen
+
+-Aufgaben bearbeitet 
+
+-Pause von 12 Uhr bis 13 Uhr gemacht
+
+-mit Daniel Beurteilungs Bogen durchgegangen
+
+-Dann hatte ich eigentlich auch schon Ende aber Daniel hat mich dann auch eine Stunde früher gehen lassen.
