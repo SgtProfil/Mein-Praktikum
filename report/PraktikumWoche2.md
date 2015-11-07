@@ -2,7 +2,7 @@
 **ca.8:30 gekommen,** 
   
   Philipp und Daniel haben mit mir die Einführung in die Programmierung fortgeführt. Anschließend habe ich hierzu ein
-  paar Beispielaufgaben ausprpbiert, die Beispielaufgaben wahren z.B. mach eine for each Schleife oder bau if clauses in    
+  paar Beispielaufgaben ausprobiert, die Beispielaufgaben wahren z.B. mach eine for each Schleife oder bau if clauses in    
   deine Frage. Dann hab ich von **12 Uhr** bis **13 Uhr** Pause gemacht. Danach hat Daniel mir eine Einführung zu Linux        fortgeführt.
   Dann war es auch 15:30 und dann nahm ich die OV8 nach Hause.
 
